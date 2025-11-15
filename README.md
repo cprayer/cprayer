@@ -5,4 +5,4 @@
 [![Codeforces(B-E)](https://img.shields.io/badge/Codeforces-1940-AA00AA?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/B-E)
 [![Codeforces(cprayer)](https://img.shields.io/badge/Codeforces-1852-blue?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/cprayer)
 [![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=cprayer)](https://solved.ac/profile/cprayer)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcprayer&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/cprayer)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcprayer&logo=leetcode&logoColor=yellow&cacheSeconds=86400)](https://leetcode.com/u/cprayer)
