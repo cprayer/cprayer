@@ -12,6 +12,9 @@
 ### schema-registry
 - [Fix Avro union evolution for specific reader](https://github.com/confluentinc/schema-registry/pull/4084) — PR (co-author)
 
+### linkerd2-proxy
+- [Avoid replaying unread body data on retry](https://github.com/linkerd/linkerd2-proxy/pull/4621) — PR
+
 ### kubernetes (kubectl)
 - [Add "No resources found" message to `kubectl logs`](https://github.com/kubernetes/kubernetes/pull/89688) — PR
 
